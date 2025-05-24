@@ -46,3 +46,11 @@ html, body{
     margin-top: 3px;
     font-size: 20px;
 }
+.heading h1{
+    display: flex;
+    position: relative;
+    vertical-align: top;
+    overflow: hidden;
+    padding: 50px 150px;
+    font-size: 100px;
+}
