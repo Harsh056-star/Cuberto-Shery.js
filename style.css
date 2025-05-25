@@ -54,3 +54,8 @@ html, body{
     padding: 50px 150px;
     font-size: 100px;
 }
+.video{
+    width: 500px;
+    border-radius: 20px;
+    overflow: hidden;
+}
