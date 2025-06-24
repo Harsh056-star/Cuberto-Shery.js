@@ -46,16 +46,8 @@ html, body{
     margin-top: 3px;
     font-size: 20px;
 }
-.heading h1{
-    display: flex;
-    position: relative;
-    vertical-align: top;
-    overflow: hidden;
-    padding: 50px 150px;
-    font-size: 100px;
-}
-.video{
-    width: 500px;
-    border-radius: 20px;
-    overflow: hidden;
+#home #homemain{
+    width:100%;
+    padding: 3vw 10vw;
+    background-color: red; 
 }
