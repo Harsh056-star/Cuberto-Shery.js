@@ -67,3 +67,17 @@ html, body{
     line-height: 1;
     letter-spacing: -8px;
 }
+#homelast{
+    padding: 5vw 15vw;
+}
+#homelast p{
+    width: 56%;
+    font-size: 1.4vw;
+    font-weight: 400;
+    letter-spacing: -.08vw;
+    outline-color: black;
+}
+#homelast p::selection{
+    color: #fff;
+    background-color: black;
+}
