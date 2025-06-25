@@ -107,7 +107,14 @@ html, body{
 
 }
 #fright{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
     width: 45%;
     min-height: inherit;
-    border: 1px solid blue;
+}
+#fright .images{
+    width: 90%;
+    height: 90%;
+    background-color: red;
 }
