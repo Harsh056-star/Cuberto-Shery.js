@@ -157,6 +157,14 @@ html, body{
     padding: 5vw 15vw;
 }
 #dev h1{
-    font-size: 4vw;
-    
+    font-size: 3.5vw;
+    font-weight: 400;
+    width: 60%;
+    line-height: 1;
+}
+#dev p{
+    font-size: 1.5vw;
+    margin-top: 1vw;
+    letter-spacing: -.5px;
+    width: 60%;
 }
